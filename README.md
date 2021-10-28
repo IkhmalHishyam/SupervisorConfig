@@ -2,10 +2,6 @@
 
 # Install supervisor 
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+```
+sudo apt-get install supervisor
 ```
