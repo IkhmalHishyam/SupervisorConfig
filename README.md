@@ -1,6 +1,6 @@
 # SupervisorConfig
 
-# Install supervisor 
+## Install supervisor 
 
 ```
 sudo apt-get install supervisor
