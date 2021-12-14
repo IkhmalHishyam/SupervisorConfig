@@ -49,7 +49,7 @@ sudo supervisorctl start laravel-worker:*
 ## You can check whether your supervisor is running or not
 
 ```
-sudo service supervisorctl status
+sudo service supervisor status
 ```
 
 Credit : CraigGoesCoding
